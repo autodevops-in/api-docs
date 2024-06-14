@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "AutoDevOps.in",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/autodevops_logo.svg",
+    "light": "/autodevops_logo.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/autodevops_logo.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -84,8 +84,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/autodevopsin",
+    "linkedin": "https://www.linkedin.com/"
   }
 }
