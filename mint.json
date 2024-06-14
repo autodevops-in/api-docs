@@ -38,13 +38,13 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Blog",
       "icon": "newspaper",
       "url": "https://blog.autodevops.in"
     },
     {
       "name": "Status",
-      "icon": "fa-solid fa-chart-simple"
+      "icon": "fa-solid fa-chart-simple",
       "url": "https://status.autodevops.in"
     }
   ],
