@@ -44,7 +44,7 @@
     },
     {
       "name": "Status",
-      "icon": "fa-solid fa-chart-simple",
+      "icon": "chart-simple",
       "url": "https://status.autodevops.in"
     }
   ],
