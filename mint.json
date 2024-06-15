@@ -26,10 +26,10 @@
     "url": "https://dashboard.autodevops.in"
   },
   "tabs": [
-    // {
-    //   "name": "API Reference",
-    //   "url": "api-reference"
-    // }
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
   ],
   "anchors": [
     {
@@ -73,14 +73,14 @@
       "pages": [
         "api-reference/introduction"
       ]
-    // },
-    // {
-    //   "group": "Endpoint Examples",
-    //   "pages": [
-    //     "api-reference/endpoint/get",
-    //     "api-reference/endpoint/create",
-    //     "api-reference/endpoint/delete"
-    //   ]
+    },
+    {
+      "group": "Endpoint Examples",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
+      ]
     }
   ],
   "footerSocials": {
